@@ -1,9 +1,3 @@
-"""
-Purpose: To scrape data from Coursera's Website
-Links Used: 
-	https://realpython.com/beautiful-soup-web-scraper-python/
-	https://medium.com/analytics-vidhya/web-scraping-and-coursera-8db6af45d83f
-"""
 
 import requests
 from bs4 import BeautifulSoup
