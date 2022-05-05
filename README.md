@@ -1,4 +1,4 @@
-# Course Suggestio 
+# Course Suggestion
 Building a Simple Course Recommendation system for online courses
 
 ## About the Project
