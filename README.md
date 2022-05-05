@@ -1,4 +1,4 @@
-# CouReco :mortar_board:
+# Course Suggestio 
 Building a Simple Course Recommendation system for online courses
 
 ## About the Project
