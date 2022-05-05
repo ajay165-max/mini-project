@@ -1,13 +1,3 @@
-"""
-Recommendation System
-
-Links
-	- https://towardsdatascience.com/how-to-build-a-recommendation-engine-quick-and-simple-aec8c71a823e
-	- https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/
-
-
-source_path = os.path.join("data/coursera-courses.csv")
-"""
 
 import streamlit as st
 import pandas as pd 
